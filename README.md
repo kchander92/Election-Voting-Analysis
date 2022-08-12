@@ -28,4 +28,4 @@ This program utilizes four precinct-level election and demographic data files by
 The code is executed in the Jupyter Notebook file Seattle_AirBnb_analysis.ipynb, which is written fully in Python 3.
 
 ## Results <a name="results"></a>
-See the results discussed in this Medium post.
+See the results discussed in this [Medium post](https://medium.com/@krishnan.chander/demographics-and-voting-patterns-in-u-s-presidential-elections-578b271ecdcf).
